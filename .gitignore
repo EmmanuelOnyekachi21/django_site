@@ -17,6 +17,6 @@ local_settings.py  # if you have this file for local configurations
 *.py[cod]
 .venv/  # if you're using a virtual environment in this folder
 
-00*
+migrations/
 
 run
